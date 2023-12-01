@@ -9,7 +9,7 @@
   ```
   -d ./Components ./src ./node_modules ~/Desktop ../../Project
   ```
-* -f List of all the file to search
+* -f List of all the files to search
 
   ```
   -f App.js app.json main.cpp
