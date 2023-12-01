@@ -4,7 +4,7 @@
 
 ### Flags
 
-* -d List of all directories (and all thei subdirectories) to search
+* -d List of all directories (and all their subdirectories) to search
 
   ```
   -d ./Components ./src ./node_modules ~/Desktop ../../Project
